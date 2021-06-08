@@ -2,6 +2,11 @@ li{
   display: inline-flex;
   
 }
+
+nav img{
+  padding: 0px;
+}
+
 nav a{
   text-decoration: none;
   font-family: 'piedea',cursive;
@@ -47,6 +52,7 @@ nav a{
 
 .face{
   text-align: right;
+  padding-left: 0px;
 }
 
 .container {
